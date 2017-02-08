@@ -59,3 +59,6 @@ C:\Users\bmordas\documents\visual studio 2015\Projects\EFTutorials\EFTutorials\b
 C:\Users\bmordas\documents\visual studio 2015\Projects\EFTutorials\EFTutorials\bin\Debug\System.Interactive.Async.xml
 C:\Users\bmordas\documents\visual studio 2015\Projects\EFTutorials\EFTutorials\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\bmordas\documents\visual studio 2015\Projects\EFTutorials\EFTutorials\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bmordas\Source\Repos\EFTutorials\EFTutorials\bin\Debug\EFTutorials.exe.config
+C:\Users\bmordas\Source\Repos\EFTutorials\EFTutorials\obj\Debug\EFTutorials.exe
+C:\Users\bmordas\Source\Repos\EFTutorials\EFTutorials\obj\Debug\EFTutorials.pdb
